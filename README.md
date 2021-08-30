@@ -1,4 +1,4 @@
-# Cálculo computacional del la formula hallada por Beimar Wilfredo López Subia
+# Cálculo computacional del la fórmula hallada por Beimar Wilfredo López Subia
 FÓRMULA PARA HALLAR LA CIFRA DE NÚMEROS PRIMOS MENORES QUE UNA CANTIDAD DADA
 
 Articulo:
