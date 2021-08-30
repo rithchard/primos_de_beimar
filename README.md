@@ -1,7 +1,7 @@
 # Cálculo computacional del la fórmula hallada por Beimar Wilfredo López Subia
-FÓRMULA PARA HALLAR LA CIFRA DE NÚMEROS PRIMOS MENORES QUE UNA CANTIDAD DADA
+Fórmula para hallar la cifra de números primos menores que una cantidad dada
 
-Articulo:
+Artículo:
 - [http://www.scielo.org.bo/pdf/rcti/v18n22/v18n22a06.pdf](http://www.scielo.org.bo/pdf/rcti/v18n22/v18n22a06.pdf)
 
 Notas:
