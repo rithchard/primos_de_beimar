@@ -1,4 +1,4 @@
-# Cálculo computacional del la fórmula hallada por Beimar Wilfredo López Subia
+# Costo computacional de la fórmula hallada por Beimar Wilfredo López Subia
 Fórmula para hallar la cifra de números primos menores que una cantidad dada
 
 Artículo:
