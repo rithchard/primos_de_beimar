@@ -11,6 +11,7 @@ Notas:
 - Entrada #1 primos total hasta < N
 - Entrada #2 total primos hasta N
 - Tiempo transcurido en segundos
+- Los algoritmos test1, test2, test3 fueron encontrados en Internet
 
 ### Captura de Pantalla con los costes computacionales
 <img src='https://i.imgur.com/soZztzE.png'>
