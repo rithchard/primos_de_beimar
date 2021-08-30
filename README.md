@@ -9,8 +9,8 @@ Notas:
 - Se compara el cálculo computacional de la fórmula hallada por Beimar Wilfredo López Subia vs 3 algoritmos
 - Están implementados en c++
 - Entrada #1 primos total hasta < N
-- Entrada #2 total primos hasta N
-- Tiempo transcurido en segundos
+- Salida #2 total primos hasta N
+- Salida #3 tiempo transcurido en segundos
 - Los algoritmos test1, test2, test3 fueron encontrados en Internet
 
 ### Captura de Pantalla con los costes computacionales
